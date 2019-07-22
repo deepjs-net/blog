@@ -1,19 +1,14 @@
 # [blog](https://deepjs.net)
 
-**优先级**
-
-- P0 - 战略需求
-- P1 - 重要紧急
-- P2 - 重要不紧急
-- P3 - 紧急不重要
-
 ## 方向
 
 > focus, focus, focus !!!
 
-- [x] [css 手册](https://github.com/deepjs-net/css)
-- [x] [优秀 npm 模块学习](https://github.com/deepjs-net/learn-npm-modules)
-- [x] [重学 JavaScript](https://github.com/deepjs-net/learn-javascript)
+- [x] [css 手册](https://css.deepjs.net)
+- [x] [深入 git 研发](https://git.deepjs.net)
+- [x] [优秀 npm 模块学习](https://npm.deepjs.net)
+- [x] [重学 JavaScript](https://js.deepjs.net)
+- [ ] [nodejs 实战](https://nodejs.deepjs.net)
 - [ ] [device 设备环境侦测](https://github.com/deepjs-net/device)
 - [ ] [hybrid 实现方案](https://github.com/deepjs-net/hybrid)
 - [ ] [stat 数据统计方案](https://github.com/deepjs-net/stat)
@@ -23,11 +18,7 @@
 - [ ] this 指向
 - [ ] viewport-layout 移动适配方案
 
-## 资源
-
-### css
-
-- [css handbook](https://css.deepjs.net)
+## 分类
 
 ### js
 
@@ -40,8 +31,23 @@
 - [learn-nodejs](https://nodejs.deepjs.net)
 - [learn-npm-modules](https://npm.deepjs.net)
 
+### html
+
+- Custom Elements
+
+### css
+
+- [css handbook](https://css.deepjs.net)
+
 ## 计划
 
 - [ ] 资源
 - [ ] 博客
 - [ ] 简介
+
+**优先级**
+
+- P0 - 战略需求
+- P1 - 重要紧急
+- P2 - 重要不紧急
+- P3 - 紧急不重要
