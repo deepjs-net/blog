@@ -23,17 +23,25 @@
 - [ ] this 指向
 - [ ] viewport-layout 移动适配方案
 
-## css
+## 资源
+
+### css
 
 - [css handbook](https://css.deepjs.net)
 
-## js
+### js
 
 - [learn-git](https://git.deepjs.net)
 - [learn-javascript](https://js.deepjs.net)
 - [learn-shell](https://shell.deepjs.net)
 
-## nodejs
+### nodejs
 
 - [learn-nodejs](https://nodejs.deepjs.net)
 - [learn-npm-modules](https://npm.deepjs.net)
+
+## 计划
+
+- [ ] 资源
+- [ ] 博客
+- [ ] 简介
